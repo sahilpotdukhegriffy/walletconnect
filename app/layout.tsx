@@ -11,7 +11,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>TON Connect Demo</title>
+        <title>TON Demo</title>
       </head>
       <body>
         <TonConnectUIProvider manifestUrl="https://github.com/sahilpotdukhegriffy/telegrambotnew/blob/main/manifest-example.json">
